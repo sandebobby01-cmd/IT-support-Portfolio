@@ -2,7 +2,7 @@
 
 I’m Bobby Sande, a Health Informatics graduate with experience helping colleagues at CHECK24 and Kredite24 troubleshoot laptops, monitors, docking stations, printers, and Wi-Fi. I also co-developed a handbook with tool instructions and examples to help onboard new team members.
 
-[View the IT Support Portfolio (PDF)](Bobby_Sande_IT_Support_Portfolio.pdf)
+[View my IT Support Portfolio (PDF)](Bobby%20Sande%20IT%20Support%20Portfolio.pdf)
 
 ## Work samples
 
